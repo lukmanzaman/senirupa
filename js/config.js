@@ -32,6 +32,12 @@ const TECH_CATEGORIES = [
         "title": "Still Life, Bodegón & Vanitas"
     },
     {
+        "id": "P5",
+        "label": "Kanon Klasik & Anatomi",
+        "icon": "📐",
+        "title": "Classical Ideal & Figurative Canon"
+    },
+    {
         "id": "P6",
         "label": "Pigmen Alami Bersejarah",
         "icon": "💎",
@@ -189,5 +195,27 @@ const SYNONYMS = {
         "sfumato",
         "cangiante",
         "lighting"
+    ],
+    "anatomi": [
+        "anatomy",
+        "nude",
+        "figure",
+        "torso",
+        "contrapposto",
+        "proportion",
+        "polykleitos",
+        "doryphoros",
+        "belvedere",
+        "david",
+        "durer"
+    ],
+    "patung": [
+        "sculpture",
+        "statue",
+        "bronze",
+        "marble",
+        "cast",
+        "torso",
+        "relief"
     ]
 };

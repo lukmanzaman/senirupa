@@ -3,8 +3,8 @@
 Visual Infographic Museum & Continuous Reading Stream.
 
 - **GitHub Repository**: [http://github.com/lukmanzaman/senirupa](http://github.com/lukmanzaman/senirupa)
-- **Total Visual**: 1,350 poster infografis beresolusi tinggi (format JPG rasio 1:3).
-- **Struktur Kurikulum**: 9 Paviliun Utama.
+- **Total Visual**: 1,355 poster infografis beresolusi tinggi (format JPG rasio 1:3).
+- **Struktur Kurikulum**: 10 Paviliun Utama (termasuk Paviliun Kanon Klasik & Anatomi).
 
 ## Cara Menjalankan Secara Lokal
 Buka berkas `index.html` langsung dengan klik ganda di Windows File Explorer atau browser pilihan Anda (Chrome, Edge, Firefox). Tidak memerlukan web server khusus (mendukung penuh protokol `file:///`).
